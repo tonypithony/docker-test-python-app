@@ -15,8 +15,8 @@
 
 # Делимся программой
 
-> sudo docker login --username=tonycythony
-> sudo docker tag directory-monitor tonycythony/alenaapp
+> sudo docker login --username=tonycythony  
+> sudo docker tag directory-monitor tonycythony/alenaapp  
 > sudo docker push tonycythony/alenaapp
 
 
